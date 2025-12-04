@@ -1,0 +1,5 @@
+Series Name,Region,Source,Frequency,Units,Code/Endpoint,Fetch Method,Notes
+S&P 500,US,GoogleFinance,Daily,Index,INDEXSP:.INX,GOOGLEFINANCE,U.S. equities
+WTI Crude,Global,FRED,Daily,USD per bbl,DCOILWTICO,FRED_CSV,Oil benchmark
+Gold (London PM),Global,FRED,Daily,USD per oz,GOLDPMGBD228NLBM,FRED_CSV,Gold benchmark
+Broad Dollar Index,US,FRED,Daily,Index,DTWEXBGS,FRED_CSV,Trade-weighted USD
