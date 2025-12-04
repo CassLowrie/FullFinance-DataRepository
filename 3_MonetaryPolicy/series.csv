@@ -1,0 +1,8 @@
+Series Name,Region,Source,Frequency,Units,Code/Endpoint,Fetch Method,Notes
+Fed Funds Rate,US,FRED,Monthly,Percent,FEDFUNDS,FRED_CSV,Policy rate
+M2 Money Stock,US,FRED,Weekly,USD billions,M2SL,FRED_CSV,Broad money
+Fed Balance Sheet,US,FRED,Weekly,USD millions,WALCL,FRED_CSV,Total assets
+10Y Treasury Yield,US,FRED,Daily,Percent,DGS10,FRED_CSV,Long rate
+ECB Deposit Rate,Euro Area,FRED,Daily,Percent,ECBDFR,FRED_CSV,Deposit facility
+BoJ Policy Rate,Japan,FRED,Daily,Percent,JPNCBIR,FRED_CSV,Policy balance rate (proxy)
+PBoC 1Y LPR,China,FRED,Monthly,Percent,CHNLR1YR,FRED_CSV,Loan prime rate proxy
