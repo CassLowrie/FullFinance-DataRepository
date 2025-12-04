@@ -1,0 +1,7 @@
+Series Name,Region,Source,Frequency,Units,Code/Endpoint,Fetch Method,Notes
+GDP (constant USD),China,World Bank,Annual,USD,NY.GDP.MKTP.KD:CHN,WB_API,CHN constant USD GDP
+GDP (constant USD),Japan,World Bank,Annual,USD,NY.GDP.MKTP.KD:JPN,WB_API,JPN constant USD GDP
+GDP (constant USD),Euro Area,World Bank,Annual,USD,NY.GDP.MKTP.KD:EUU,WB_API,EUU constant USD GDP
+Unemployment (% ILO),China,World Bank,Annual,Percent,SL.UEM.TOTL.ZS:CHN,WB_API,Modelled ILO
+Unemployment (% ILO),Japan,World Bank,Annual,Percent,SL.UEM.TOTL.ZS:JPN,WB_API,Modelled ILO
+Unemployment (% ILO),Euro Area,World Bank,Annual,Percent,SL.UEM.TOTL.ZS:EUU,WB_API,Modelled ILO
